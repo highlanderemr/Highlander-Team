@@ -4,7 +4,7 @@ import { tabs } from './src/tabs';
 export default {
   getSiteData: async () => {
     const { data } = await axios.get(
-        'https://raw.githubusercontent.com/SnehiV/Highlander-Team/master/data.json'
+        'https://raw.githubusercontent.com/highlanderemr/Highlander-Team/master/data.json'
     )
     return data;
   },

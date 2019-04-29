@@ -61,9 +61,6 @@ export default withSiteData((data) => {
                         </Grid.Column>
                     </Grid.Row>
                     <Grid.Row>
-                        <Grid.Column textAlign='center'>
-                            <Button size='huge'><a href="/features">Check out Features</a></Button>
-                        </Grid.Column>
                     </Grid.Row>
                 </Grid>
             </Segment>
