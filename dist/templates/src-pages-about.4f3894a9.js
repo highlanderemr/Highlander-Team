@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{154:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(){return r.a.createElement("div",null,r.a.createElement("p",null,"React Static is a progressive static site generator for React."))}}}]);
+//# sourceMappingURL=src-pages-about.4f3894a9.js.map

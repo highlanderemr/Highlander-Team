@@ -1,0 +1,46 @@
+body {
+  box-sizing: border-box;
+}
+
+.page-header {
+  background-color: #1b1c1d;
+}
+
+.homepage-header {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.teampage-header {
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.team-members {
+  margin-top: 5%;
+}
+
+.ui.items > .item {
+  margin: 1.5em 0 !important;
+}
+
+.features-list {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.contact-container {
+  margin-top: 200px;
+  font-size: 4em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*.team-member-card {*/
+/*padding: 4%;*/
+/*}*/
+

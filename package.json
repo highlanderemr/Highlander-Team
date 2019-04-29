@@ -1,0 +1,30 @@
+{
+  "name": "react-static-example-basic",
+  "private": true,
+  "homepage": "highlanderemr.com",
+  "scripts": {
+    "start": "react-static start",
+    "stage": "react-static build --staging",
+    "build": "react-static build",
+    "bundle": "react-static bundle",
+    "export": "react-static export",
+    "serve": "serve dist -p 3000 -s",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "axios": "^0.18.0",
+    "babel-plugin-transform-semantic-ui-react-imports": "^1.4.1",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-hot-loader": "^4.3.12",
+    "react-static": "^6.0.18",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0"
+  },
+  "devDependencies": {
+    "eslint-config-react-tools": "1.x.x",
+    "serve": "10.1.1"
+  }
+}
