@@ -60,8 +60,6 @@ export default withSiteData((data) => {
                             <Image bordered rounded size='large' src='http://www.psychiatryemrsoftware.com/images/screenshots/Mental-Health-Patient-Dashboard---Psychiatric-EMR-&-Practice-Management-Software.png' />
                         </Grid.Column>
                     </Grid.Row>
-                    <Grid.Row>
-                    </Grid.Row>
                 </Grid>
             </Segment>
         </div>
