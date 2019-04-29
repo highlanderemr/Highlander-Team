@@ -2,7 +2,7 @@
   "companyName": "Highlander",
   "companyTagline": "Design with doctors in mind",
   "email": "Highlanderemr@gmail.com",
-  "problem": "Currently EMRs display too much information visually. This can overwhelm the user, the physician, by making all data have equal visual weight.",
+  "problem": "Currently EMRs display too much information on the screen. This can overwhelm the user, the physician, by making all data have equal visual weight.",
   "solution": "Create a more welcoming display that allows important information to be more prominent and less relevant information to be tucked away neatly. The improvement in user experience for physicians will lessen stress and burnout.",
   "team": [
     {
@@ -27,7 +27,7 @@
       "name": "Raghu Sunkara",
       "image": "./assets/raghusunkara.jpeg",
       "role": "Founder",
-      "description": "Raghu has worked for several start ups over the years and has been a part of the start up community in Atlanta for many years. He graduated from Emory University with a BS in Economics and currently works as a film producer."
+      "description": "Raghu has worked for several start ups and has been a part of the tech start up community in Atlanta for many years. He graduated from Emory University with a BS in Economics and currently works as a film producer."
     }
   ],
   "teamTagline": "We are a group of young and passionate professionals that are ready to change Health IT.",
